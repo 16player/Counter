@@ -1,0 +1,12 @@
+.input{
+    width: 50px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 35px;
+}
+.inputError{
+    background-color: red;
+}
+.countError{
+    background-color: darkred;
+}
